@@ -1,1 +1,3 @@
 https://blog.javascripttoday.com/blog/build-a-rest-api-in-javascript/
+https://blog.devgenius.io/restful-api-design-conventions-best-practices-and-guideline-48578333f853
+https://blog.devgenius.io/build-your-first-restful-api-with-node-js-a-step-by-step-guide-bd92ad40b294
