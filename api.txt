@@ -1,0 +1,19 @@
+1. Search chats
+    method: GET
+    uri: /api/<version>/chats/:chatid
+    query params: {'userid':id, 'fromDate': <date>, 'toDate': [date], page: <number>}
+    description: return all chats, or the chat identified by chatid.
+                 need to do pagination as there could be a lot of chat in system.
+                 support query by date
+
+2. Creation of a chat
+    method: POST
+    uri: /api/<version>/chats
+    query params: {'userid':id}
+    description: create a chat by the userid
+
+3. Add message to a chat
+    method: PUT
+    uri: /api/<version>/chats/:id
+    query params: {'message': <message>}
+    description: add message to a chat

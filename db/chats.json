@@ -1,0 +1,43 @@
+{
+  "chats": [
+    {
+      "id": 16998227097340,
+      "user": 0,
+      "messages": [
+        {
+          "role": "user",
+          "content": "test message",
+          "chatId": ""
+        },
+        {
+          "role": "user",
+          "content": "test message",
+          "chatId": 16998227097340
+        },
+        {
+          "role": "user",
+          "content": "test message",
+          "chatId": 16998227097340
+        },
+        {
+          "role": "user",
+          "content": "test message",
+          "chatId": 16998227097340
+        }
+      ],
+      "date": "2023-11-12T20:58:29.734Z"
+    },
+    {
+      "id": 16998227154360,
+      "user": 0,
+      "messages": [
+        {
+          "role": "user",
+          "content": "test message",
+          "chatId": "16998227097340"
+        }
+      ],
+      "date": "2023-11-12T20:58:35.436Z"
+    }
+  ]
+}
